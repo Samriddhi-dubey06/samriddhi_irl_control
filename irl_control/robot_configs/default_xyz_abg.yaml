@@ -10,7 +10,7 @@ devices:
     -   id: 1
         name: "ur5right"
         max_vel: [1, 5]
-        # start_body: "dual_ur_stand"
+        start_body: "dual_ur_stand"
         EE: "ur_EE_ur5right"
         ctrlr_dof_xyz: [True, True, True]
         ctrlr_dof_abg: [True, True, True]
@@ -19,7 +19,7 @@ devices:
     -   id: 2
         name: "ur5left"
         max_vel: [1, 5]
-        # start_body: "dual_ur_stand"
+        start_body: "dual_ur_stand"
         EE: "ur_EE_ur5left"
         ctrlr_dof_xyz: [True, True, True]
         ctrlr_dof_abg: [True, True, True]

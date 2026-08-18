@@ -1,4 +1,3 @@
-devices:
     -   id: 0
         name: "base"
         max_vel: [0, 2]
