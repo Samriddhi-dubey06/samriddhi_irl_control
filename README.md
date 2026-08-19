@@ -661,7 +661,7 @@ Repository maintained for robotics research, MuJoCo simulation, bimanual manipul
 
 ## Citation
 
-If you use this repository in your research, please cite the original IRL Control framework and acknowledge this repository when appropriate.
+
 
 ```bibtex
 @software{irl_control,
